@@ -299,7 +299,7 @@ export default function App() {
               </p>
 
               <h3>
-                B. Kevin
+                B. Kevin BE(Software Developer, Stackly)
               </h3>
 
               <p>
